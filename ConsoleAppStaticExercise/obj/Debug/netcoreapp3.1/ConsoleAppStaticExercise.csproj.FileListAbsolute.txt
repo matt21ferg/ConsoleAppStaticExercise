@@ -1,0 +1,14 @@
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\bin\Debug\netcoreapp3.1\ConsoleAppStaticExercise.exe
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\bin\Debug\netcoreapp3.1\ConsoleAppStaticExercise.deps.json
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\bin\Debug\netcoreapp3.1\ConsoleAppStaticExercise.runtimeconfig.json
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\bin\Debug\netcoreapp3.1\ConsoleAppStaticExercise.runtimeconfig.dev.json
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\bin\Debug\netcoreapp3.1\ConsoleAppStaticExercise.dll
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\bin\Debug\netcoreapp3.1\ConsoleAppStaticExercise.pdb
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\obj\Debug\netcoreapp3.1\ConsoleAppStaticExercise.csproj.AssemblyReference.cache
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\obj\Debug\netcoreapp3.1\ConsoleAppStaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\obj\Debug\netcoreapp3.1\ConsoleAppStaticExercise.AssemblyInfoInputs.cache
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\obj\Debug\netcoreapp3.1\ConsoleAppStaticExercise.AssemblyInfo.cs
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\obj\Debug\netcoreapp3.1\ConsoleAppStaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\obj\Debug\netcoreapp3.1\ConsoleAppStaticExercise.dll
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\obj\Debug\netcoreapp3.1\ConsoleAppStaticExercise.pdb
+C:\Users\matt2\repos\ConsoleAppStaticExercise\ConsoleAppStaticExercise\obj\Debug\netcoreapp3.1\ConsoleAppStaticExercise.genruntimeconfig.cache
