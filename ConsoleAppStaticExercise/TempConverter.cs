@@ -16,6 +16,7 @@ namespace ConsoleAppStaticExercise
         {
             var result = (Fahtrenheit - 32) / 1.8;
             return result;
+
         }
 
       public  static double CelsiusToFahrenheit(double Celsius)
